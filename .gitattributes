@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+Project-VisionPulse/Group-1a5b_Baseline[[:space:]]results/obstacle[[:space:]]detection/obstacle_detection_CNN-model/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
