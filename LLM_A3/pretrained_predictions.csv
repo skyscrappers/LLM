@@ -1,0 +1,101 @@
+sample,prediction,label
+"{'premise': 'This church choir sings to the masses as they sing joyous songs from the book at a church.', 'hypothesis': 'The church has cracks in the ceiling.', 'label': 1}",1,1
+"{'premise': 'A woman within an orchestra is playing a violin.', 'hypothesis': 'A woman is playing the violin.', 'label': 0}",1,0
+"{'premise': 'Two men climbing on a wooden scaffold.', 'hypothesis': 'Two sad men climbing on a wooden scaffold.', 'label': 1}",1,1
+"{'premise': 'A man in a black shirt, in a commercial kitchen, holding up meat he took out of a bag.', 'hypothesis': 'A man in a black shirt, in a commercial kitchen, holding up the old meat he took out of a bag.', 'label': 1}",1,1
+"{'premise': 'a woman in a black shirt looking at a bicycle.', 'hypothesis': 'A woman dressed in black shops for a bicycle.', 'label': 1}",1,1
+"{'premise': 'many children play in the water.', 'hypothesis': 'The children are playing mini golf.', 'label': 2}",0,2
+"{'premise': 'A group of people stand near and on a large black square on the ground with some yellow writing on it.', 'hypothesis': 'a group of people wait', 'label': 1}",1,1
+"{'premise': 'A female softball player wearing blue and red crouches in the infield, waiting for the next play.', 'hypothesis': 'the player is flying planes', 'label': 2}",1,2
+"{'premise': 'Workers standing on a lift.', 'hypothesis': 'Workers stand on a lift', 'label': 0}",0,0
+"{'premise': 'Two men in neon yellow shirts busily sawing a log in half.', 'hypothesis': 'Two men are cutting wood to build a table.', 'label': 1}",1,1
+"{'premise': 'A Skier ski-jumping while two other skiers watch his act.', 'hypothesis': 'A skier preparing a trick', 'label': 0}",1,0
+"{'premise': 'Children bathe in water from large drums.', 'hypothesis': 'The kids are wet.', 'label': 0}",1,0
+"{'premise': 'A woman is standing near three stores, two have beautiful artwork and the other store has Largo written on it.', 'hypothesis': 'A woman standing on a street corner outside beside three different stores, two of which contain beautiful artwork and one with a Largo sign.', 'label': 0}",1,0
+"{'premise': 'People are all standing together in front of a statue of an animal, and they are all wearing cool-weather clothing.', 'hypothesis': 'A beautiful statue of a man.', 'label': 2}",1,2
+"{'premise': 'A man is renovating a room.', 'hypothesis': 'A man is using a hammer in a room.', 'label': 1}",0,1
+"{'premise': 'Military personnel are shopping', 'hypothesis': 'Military personnel are in the mall.', 'label': 1}",0,1
+"{'premise': 'An Ambulance is passing a man wearing a bandanna and girl.', 'hypothesis': 'The man in the bandana is running after the ambulance', 'label': 2}",1,2
+"{'premise': 'Three soccer players, two in orange one in yellow, running for the ball on a soccer field.', 'hypothesis': 'There are some players chasing a ball.', 'label': 0}",1,0
+"{'premise': 'The Sooner football player carrying the ball is trying to avoid being tackled.', 'hypothesis': 'A football player is holding a ball.', 'label': 0}",1,0
+"{'premise': 'An older gentleman wearing a hat is walking on crutches next to a busy street.', 'hypothesis': 'A man with a walking stick is next to the street.', 'label': 2}",1,2
+"{'premise': 'A small child is riding in a red wagon.', 'hypothesis': 'A kid is in a wagon and someone is pulling it.', 'label': 1}",1,1
+"{'premise': 'A female marathon runner wearing a red headband, a red tank top and black shorts jogging down a paved road.', 'hypothesis': 'two women arm wrestle in a bar', 'label': 2}",1,2
+"{'premise': 'Two men playing in a beautiful lake surrounded by mountains.', 'hypothesis': 'A couple people enjoy the water near the mountains.', 'label': 1}",0,1
+"{'premise': 'Man in chair laughing and talking to others, while handling books.', 'hypothesis': 'Man handling books while sitting in chair.', 'label': 0}",1,0
+"{'premise': 'Two middle-aged police officers watch over a parking lot, at night.', 'hypothesis': 'The officers are actually security guards.', 'label': 2}",1,2
+"{'premise': 'A bicycle rider wearing racing gear pedals a yellow bike past the wire fence at the edge of a field, with a stand of trees in the background.', 'hypothesis': 'A scooter rider wearing casual clothes races past a building.', 'label': 2}",1,2
+"{'premise': 'A person with a green backpack is riding a bike down the road.', 'hypothesis': 'The person is walking.', 'label': 2}",1,2
+"{'premise': 'A man with a tan jacket with a full grocery bag is crossing the street.', 'hypothesis': 'The man is wearing nothing but a t shirt.', 'label': 2}",1,2
+"{'premise': 'A man in a purple mascot costume is standing outside of a store while a man and a woman each wearing flamboyant clothing stand off to the side.', 'hypothesis': 'The costume is green.', 'label': 2}",1,2
+"{'premise': 'A team of surgeons operate on a female patient.', 'hypothesis': 'The surgeons are operating.', 'label': 0}",1,0
+"{'premise': 'Bubbles surround a statue in the middle of a street.', 'hypothesis': 'There are bubbles around the statue.', 'label': 0}",1,0
+"{'premise': 'A man in a tie-dyed shirt and jeans is sitting on a bench with a dog and a guitar on his lap, as well as a harmonica near his mouth.', 'hypothesis': 'A guy is next to a dog while holding some musical instruments.', 'label': 0}",1,0
+"{'premise': 'A young man with glasses and his companion are attempting to do laundry in a public place.', 'hypothesis': 'A tall person with glasses', 'label': 1}",1,1
+"{'premise': 'A person obscured in shadow in a gymnasium.', 'hypothesis': 'The person is trying to be sneaky.', 'label': 1}",1,1
+"{'premise': 'Two people sitting on the sand.', 'hypothesis': 'There are two people sitting down.', 'label': 0}",1,0
+"{'premise': 'A man in an orange jacket reaches under a busted up blue car on wooden supports.', 'hypothesis': 'A man reaches into a boat.', 'label': 2}",1,2
+"{'premise': 'A girl with a bowing throwing a wet sponge.', 'hypothesis': 'The girll is playing a game.', 'label': 1}",1,1
+"{'premise': 'Two boys inside a fence jump in the air while holding a basketball.', 'hypothesis': 'Two boys sit down.', 'label': 2}",1,2
+"{'premise': 'A woman in an American military uniform sits at a table and writes the words ""sad,"" ""depressed,"" and ""hatred"" on a large sheet of white paper.', 'hypothesis': 'A woman is diving off a mountain.', 'label': 2}",1,2
+"{'premise': 'A young redheaded girl, wearing a yellow shirt, black pants, and sneakers, jumping in a grassy field with blue skies and wispy clouds in the background.', 'hypothesis': 'A girl jumps in a grassy field', 'label': 0}",1,0
+"{'premise': 'Man with black shirt and sunglasses makes something out of a balloon.', 'hypothesis': 'A man makes something from a balloon.', 'label': 0}",1,0
+"{'premise': 'I am squatting on a dock, looking into a lake.', 'hypothesis': 'I am at the lake with my family.', 'label': 1}",1,1
+"{'premise': 'Two women wearing aprons and hairnets look at each other while they reach into metal canisters.', 'hypothesis': 'Two women are working.', 'label': 1}",1,1
+"{'premise': 'A man is sitting on a blue bench with a blue blanket covering his face.', 'hypothesis': 'A man is playing chess while wearing a green tutu.', 'label': 2}",1,2
+"{'premise': 'A red dog jumps and catches a tennis ball in its mouth.', 'hypothesis': 'a dog catching a ball he just got as a gift', 'label': 1}",0,1
+"{'premise': 'A man wearing red ski pants, a black jacket, and a white helmet is skiing down a mountain.', 'hypothesis': 'The man is alone sleeping in his bedroom on the moon.', 'label': 2}",1,2
+"{'premise': 'Several people wearing green shirts walk on the beach together.', 'hypothesis': 'Some people are walking on the beach collecting sea shells.', 'label': 1}",1,1
+"{'premise': 'A group of African Americans getting ready to eat.', 'hypothesis': 'A few people are sitting at a table with forks in hand.', 'label': 1}",1,1
+"{'premise': 'Two hikers are backpacking up a snow slope.', 'hypothesis': 'Two people are cold hiking with their backpacks up a snowy slope.', 'label': 1}",1,1
+"{'premise': 'A female swimmer wearing a swimming cap does the butterfly stroke.', 'hypothesis': 'A woman is sitting beside a pool.', 'label': 2}",1,2
+"{'premise': 'A woman in a black hooded sweatshirt walking with a large dog.', 'hypothesis': 'A woman walking a dog', 'label': 0}",1,0
+"{'premise': 'A child hugs a birdhouse.', 'hypothesis': 'A child has no arms.', 'label': 2}",1,2
+"{'premise': 'A gray-haired man rides a bike in front of a bus advertising Ironman.', 'hypothesis': 'An older man rides a bike in front of a bus with a movie poster on it.', 'label': 1}",1,1
+"{'premise': 'Group of young adults posing for picture near spanish-language sign.', 'hypothesis': 'The people are taking a science test.', 'label': 2}",1,2
+"{'premise': 'A man sitting and a woman laying in his lap kissing each other.', 'hypothesis': 'A couple are preparing to be intimate.', 'label': 1}",1,1
+"{'premise': 'man doing carpentry or construction on top of an unfinished building.', 'hypothesis': 'The man tore down the shed.', 'label': 2}",1,2
+"{'premise': 'A woman sweeping in front of a ladder on a busy street.', 'hypothesis': 'A man dumping a truck full of dirt onto the street', 'label': 2}",1,2
+"{'premise': 'A light technician man with tribal tattoos aiming a spotlight over a balcony.', 'hypothesis': 'An actress takes the stage.', 'label': 2}",1,2
+"{'premise': 'It looks like quite a sweaty, smelly dog pile over one little rugby ball, but the boys in blue seem to want it more.', 'hypothesis': 'A little boy looks disgusted that is ball is dirty', 'label': 2}",1,2
+"{'premise': 'A woman is holding a microphone in one hand and her mouth is open.', 'hypothesis': 'A woman about to sing a song on stage', 'label': 1}",1,1
+"{'premise': 'A five piece horn band all playing in a hall of what looks like a church.', 'hypothesis': 'There are people playing music.', 'label': 0}",0,0
+"{'premise': 'A group of men and women are sitting at a table eating and drinking.', 'hypothesis': 'A group of men and women are sitting at a table eating and drinking for a birthday party.', 'label': 1}",1,1
+"{'premise': 'A woman in a red shirt looks at a map while with a view of a river and several boats in the background.', 'hypothesis': 'A woman looks at a map outdoors, a river and boats are behind her.', 'label': 0}",1,0
+"{'premise': 'A woman in a dress is singing and having a good time.', 'hypothesis': 'A woman is singing karaoke.', 'label': 1}",1,1
+"{'premise': 'A group of men playing rugby on the sand.', 'hypothesis': 'A group of woman play volleyball in a court.', 'label': 2}",1,2
+"{'premise': 'A man siting on a bench with a briefcase.', 'hypothesis': 'The man is walking up the stairs.', 'label': 2}",1,2
+"{'premise': 'A man with two small boys making a purchase from a woman.', 'hypothesis': 'The little boys are flying a kite with the man and the woman.', 'label': 2}",1,2
+"{'premise': 'A group of children playing with props', 'hypothesis': 'The children are playing.', 'label': 0}",0,0
+"{'premise': 'A man and a woman are holding hands on the shore of a lake.', 'hypothesis': 'A couple on vacation.', 'label': 1}",1,1
+"{'premise': 'A man in a white t-shirt and jeans is holding a mallet and chisel next to his abstract sculpture which stands on several bricks.', 'hypothesis': 'A man is wearing a white shirt', 'label': 0}",1,0
+"{'premise': 'A man and a child are laughing at each other.', 'hypothesis': 'Two people are laughing.', 'label': 0}",1,0
+"{'premise': 'A man in a plaid red shirt casts his fishing line out into the water.', 'hypothesis': 'A man is playing golf with his friends.', 'label': 2}",1,2
+"{'premise': 'City street crowded with sports fans wearing orange.', 'hypothesis': 'The sports fans are wearing yellow.', 'label': 2}",0,2
+"{'premise': 'A tattooed woman clicking on a mouse on a desk.', 'hypothesis': 'A tattooed man clicking on a mouse on a desk.', 'label': 2}",1,2
+"{'premise': 'A street performer is entertaining a gathered audience with the help of a young boy.', 'hypothesis': 'A street performer is working with an apprentice.', 'label': 1}",1,1
+"{'premise': 'A guy in a red jacket is snowboarding in midair.', 'hypothesis': 'A guy is outside in the snow', 'label': 0}",1,0
+"{'premise': 'A man in a lab coat is looking through a microscope.', 'hypothesis': 'A man is looking through a microscope', 'label': 0}",0,0
+"{'premise': 'Passengers in a rusty yellow car driving down the street.', 'hypothesis': 'A car drives on a street.', 'label': 0}",1,0
+"{'premise': 'Two women are hugging on a path through a grassy area with a cow visible past them.', 'hypothesis': 'They are at the bar', 'label': 2}",1,2
+"{'premise': ""It's another day of celebration, with a parade and signs, with many people in attendance."", 'hypothesis': 'Crowd has gathered to celebrate and watch a parade', 'label': 0}",1,0
+"{'premise': 'A senior citizen wearing a hat, blue button up shirt, Khaki shorts and sandals walking in a park holding two ice cream cones.', 'hypothesis': 'The man is sitting on a bench.', 'label': 2}",1,2
+"{'premise': 'A man with a gray beard and a little boy are sitting on the floor looking over some papers in a room with a bunk bed.', 'hypothesis': 'The man and boy are in a bedroom.', 'label': 1}",1,1
+"{'premise': 'The man in the blue shirt is relaxing on the rocks.', 'hypothesis': 'The man is shirtless on the beach.', 'label': 2}",0,2
+"{'premise': 'A man wearing a purple cap, yellow snow goggles, a periwinkle jacket and red backpack moves quickly through powdery snow near a winter tree.', 'hypothesis': 'A man is moving quickly through the snow.', 'label': 0}",1,0
+"{'premise': 'Men wearing hats walk on the street.', 'hypothesis': 'The men are construction workers.', 'label': 1}",1,1
+"{'premise': 'The dog is in the snow in front of some trees.', 'hypothesis': 'A dog is playing in the snow.', 'label': 1}",1,1
+"{'premise': 'A man falling off a bull as the animal jumps into the air.', 'hypothesis': 'An animal jumps as a male falls.', 'label': 0}",1,0
+"{'premise': 'Overly dramatic couple pose for a picture where an ""angry ""man ""chokes"" a woman who sticks out her tongue.', 'hypothesis': 'A man chokes a woman', 'label': 0}",1,0
+"{'premise': 'Two women are eating lollipops- the blond woman is wearing a button and the one with brown hair and a scarf has her eyes closed.', 'hypothesis': 'Two sisters are eating lollipops.', 'label': 1}",0,1
+"{'premise': 'Three performers are on the stage floor in black lace costumes.', 'hypothesis': 'The performers are performing in a cabaret.', 'label': 1}",1,1
+"{'premise': 'A woman in a blue jacket dragging a child on a sled through the snow.', 'hypothesis': 'The woman in the blue jacket has three legs and two heads.', 'label': 2}",1,2
+"{'premise': 'A group of students are walking through the campus.', 'hypothesis': 'A group of people are walking together', 'label': 0}",0,0
+"{'premise': 'A black woman is sitting on the beach examining an octopus.', 'hypothesis': 'The woman has been fishing in the ocean', 'label': 1}",0,1
+"{'premise': 'A man on a sidewalk is playing the accordion while happy people pass by.', 'hypothesis': 'A man performs for the public', 'label': 0}",1,0
+"{'premise': 'Large brown dog walking in shallow water.', 'hypothesis': 'A brown dog is walking outside', 'label': 0}",1,0
+"{'premise': 'A shirt booth with a man printing a shirt.', 'hypothesis': 'The shirt is blue with black lettering.', 'label': 1}",1,1
+"{'premise': 'A child stuck up in a tree.', 'hypothesis': 'A man is sawing down a telephone pole.', 'label': 2}",1,2
+"{'premise': 'Several women in headscarves are standing in a cobbled courtyard.', 'hypothesis': 'Several women jump in a pool and splash each other.', 'label': 2}",1,2
+"{'premise': 'A person attempts to rope a black cow while riding a horse.', 'hypothesis': 'The person is on a camel.', 'label': 2}",1,2
+"{'premise': 'An impoverished person, wearing a torn brown shirt and no shoes, is kneeling down along the banks of a trash infested body of water.', 'hypothesis': 'A homeless man wearing torn clothing is looking for food among the trash in the river.', 'label': 1}",1,1

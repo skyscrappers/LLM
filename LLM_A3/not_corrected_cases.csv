@@ -1,0 +1,8 @@
+sample,prediction_pretrained,label_pretrained,prediction_fine_tuned,label_fine_tuned
+"{'premise': 'A Skier ski-jumping while two other skiers watch his act.', 'hypothesis': 'A skier preparing a trick', 'label': 0}",1,0,1,0
+"{'premise': 'A woman is standing near three stores, two have beautiful artwork and the other store has Largo written on it.', 'hypothesis': 'A woman standing on a street corner outside beside three different stores, two of which contain beautiful artwork and one with a Largo sign.', 'label': 0}",1,0,1,0
+"{'premise': 'An Ambulance is passing a man wearing a bandanna and girl.', 'hypothesis': 'The man in the bandana is running after the ambulance', 'label': 2}",1,2,1,2
+"{'premise': 'Two middle-aged police officers watch over a parking lot, at night.', 'hypothesis': 'The officers are actually security guards.', 'label': 2}",1,2,1,2
+"{'premise': 'Group of young adults posing for picture near spanish-language sign.', 'hypothesis': 'The people are taking a science test.', 'label': 2}",1,2,1,2
+"{'premise': 'man doing carpentry or construction on top of an unfinished building.', 'hypothesis': 'The man tore down the shed.', 'label': 2}",1,2,1,2
+"{'premise': 'A black woman is sitting on the beach examining an octopus.', 'hypothesis': 'The woman has been fishing in the ocean', 'label': 1}",0,1,2,1
